@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hervibuilder.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1758567532|dvN4pb1A9KJn
+hervibuilder.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+hervibuilder.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=virginia-pub_g
+
